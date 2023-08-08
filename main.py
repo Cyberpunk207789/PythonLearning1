@@ -1,4 +1,3 @@
-
 def Palindrom (string: str) -> bool:
     right = len(string) - 1
     left = 0
